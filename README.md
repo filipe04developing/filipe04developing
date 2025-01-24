@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Tecnologia em Sistemas de Computação** na **UFF** e estou em busca de um estágio na área de **TI**.
 
-Aqui, você encontrará projetos que desenvolvo relacionados a **Excel**, **Power BI**, **programação**, entre outras tecnologias que estou aprendendo e aplicando no meu dia a dia.
+Aqui, você encontrará projetos que desenvolvo relacionados a **Excel**, **programação**, entre outras tecnologias que estou aprendendo e aplicando no meu dia a dia.
 
 ## 🚀 Sobre Mim
 
@@ -14,7 +14,6 @@ Aqui, você encontrará projetos que desenvolvo relacionados a **Excel**, **Powe
 ## 🔧 Ferramentas e Tecnologias
 
 - **Excel** (Avançado)
-- **Power BI** (Avançado)
 - **Python** (Intermediário)
 - **SQL** (Básico)
 - **JavaScript** (Básico)
