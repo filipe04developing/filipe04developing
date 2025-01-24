@@ -26,7 +26,5 @@ Aqui, você encontrará projetos que desenvolvo relacionados a **Excel**, **Powe
 
 Aqui você pode ver alguns dos meus projetos em andamento:
 
-- **[Projeto 1](link-do-projeto-1)**
-- **[Projeto 2](link-do-projeto-2)**
 
 Fique à vontade para explorar! 🚀
