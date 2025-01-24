@@ -20,11 +20,14 @@ Aqui, você encontrará projetos que desenvolvo relacionados a **Excel**, **Powe
 - **JavaScript** (Básico)
 
 ## 📫 Como me encontrar
-[LinkedIn](https://www.linkedin.com/in/filipetmarcal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipetmarcal/)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@filipetmarcal)
 
 ## 🔗 Meus Projetos
 
-Aqui você pode ver alguns dos meus projetos em andamento:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipe04developing&theme=blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=filipe04developing&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 
 Fique à vontade para explorar! 🚀
