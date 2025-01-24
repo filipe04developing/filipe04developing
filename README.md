@@ -20,10 +20,7 @@ Aqui, você encontrará projetos que desenvolvo relacionados a **Excel**, **Powe
 - **JavaScript** (Básico)
 
 ## 📫 Como me encontrar
-
-- LinkedIn: [Filipe no LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- E-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- GitHub: [github.com/seu-username](https://github.com/seu-username)
+[LinkedIn](https://www.linkedin.com/in/filipetmarcal)
 
 ## 🔗 Meus Projetos
 
